@@ -1,0 +1,6 @@
+Username,Name,Title,Email Address,Created,Account Expiration,Password Expiration,Enabled,Locked,Last Login,Roles,Two Factor Authentication,Application,District
+b_hodges,Brenda Hodges,Secretary,bhodges@district.edu,2023-04-12,,2024-10-12,True,False,2024-03-09,Standard User,True,USAS,District 3
+clowry99,Chris Lowry,Warehouse Lead,clowry@district.edu,2022-08-20,,2024-02-20,True,False,2024-03-10,Standard User,False,USAS,District 3
+f_morgan,Felicia Morgan,Registrar,fmorgan@district.edu,2023-11-01,2025-11-01,2024-05-01,True,False,2024-02-20,Standard User,True,USAS,District 3
+m_scott_2,Michael Scott,Regional Manager,mscott@district.edu,2021-01-15,,2024-07-15,False,False,2023-10-12,Standard User,True,USAS,District 3
+d_vance,Dwight Vance,Assistant,dvance@district.edu,2023-05-22,,2024-11-22,True,True,2024-02-01,Standard User,False,USAS,District 3

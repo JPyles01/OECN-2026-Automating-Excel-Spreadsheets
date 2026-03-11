@@ -1,0 +1,6 @@
+Username,Name,Title,Email Address,Created,Account Expiration,Password Expiration,Enabled,Locked,Last Login,Roles,Two Factor Authentication,Application,District
+jsmith01,John Smith,Accountant,jsmith@district.edu,2023-01-15,,2024-07-15,True,False,2024-03-01,Standard User,True,USPS,District 1
+mgarcia,Maria Garcia,Coordinator,mgarcia@district.edu,2022-11-10,,2024-05-10,True,False,2024-03-05,Standard User,False,USPS,District 1
+tchen22,Tom Chen,Analyst,tchen@district.edu,2023-06-05,2025-06-05,2024-12-05,True,False,2024-02-28,Standard User,True,USPS,District 1
+lwilson,Linda Wilson,Manager,lwilson@district.edu,2021-03-20,,2024-09-20,False,False,2023-12-15,Standard User,True,USPS,District 1
+ajackson,Aaron Jackson,Specialist,ajackson@district.edu,2023-08-12,,2025-02-12,True,True,2024-01-10,Standard User,False,USPS,District 1

@@ -1,0 +1,158 @@
+2026-03-05 12:24:51,736 - INFO - main.py:123 - Processing i district
+2026-03-05 12:28:01,015 - INFO - main.py:123 - Processing i district
+2026-03-05 12:28:31,773 - INFO - main.py:123 - Processing i district
+2026-03-05 14:36:36,514 - INFO - main.py:123 - Processing i district
+2026-03-05 14:40:20,488 - INFO - main.py:123 - Processing input\District 1 district
+2026-03-05 14:40:20,489 - INFO - main.py:129 - Processing USAS Users.csv file
+2026-03-05 14:40:20,489 - INFO - main.py:123 - Processing input\District 2 district
+2026-03-05 14:40:20,490 - INFO - main.py:123 - Processing input\District 3 district
+2026-03-11 08:44:35,003 - INFO - main.py:123 - Processing input\District 1 district
+2026-03-11 08:44:35,004 - INFO - main.py:129 - Processing USAS Users.csv file
+2026-03-11 08:44:35,004 - INFO - main.py:123 - Processing input\District 2 district
+2026-03-11 08:44:35,004 - INFO - main.py:123 - Processing input\District 3 district
+2026-03-11 09:39:30,652 - INFO - main.py:123 - Processing input\District 1 district
+2026-03-11 09:39:30,653 - INFO - main.py:129 - Processing USAS User Report.csv file
+2026-03-11 09:39:30,653 - INFO - main.py:129 - Processing USPS User Report.csv file
+2026-03-11 09:39:30,653 - INFO - main.py:123 - Processing input\District 2 district
+2026-03-11 09:39:30,654 - INFO - main.py:129 - Processing USAS User Report.csv file
+2026-03-11 09:39:30,654 - INFO - main.py:129 - Processing USPS User Report.csv file
+2026-03-11 09:39:30,654 - INFO - main.py:123 - Processing input\District 3 district
+2026-03-11 09:39:30,655 - INFO - main.py:129 - Processing USAS User Report.csv file
+2026-03-11 09:39:30,655 - INFO - main.py:129 - Processing USPS User Report.csv file
+2026-03-11 09:44:01,996 - INFO - main.py:132 - Processing input\District 1 district
+2026-03-11 09:44:01,997 - INFO - main.py:132 - Processing input\District 2 district
+2026-03-11 09:44:01,997 - INFO - main.py:132 - Processing input\District 3 district
+2026-03-11 09:46:07,891 - INFO - main.py:132 - Processing District 1 district
+2026-03-11 09:46:07,892 - INFO - main.py:132 - Processing District 2 district
+2026-03-11 09:46:07,892 - INFO - main.py:132 - Processing District 3 district
+2026-03-11 09:54:36,052 - INFO - main.py:133 - Processing District 1 district
+2026-03-11 09:54:36,053 - INFO - main.py:133 - Processing District 2 district
+2026-03-11 09:54:36,053 - INFO - main.py:133 - Processing District 3 district
+2026-03-11 09:56:52,976 - INFO - main.py:134 - Processing District 1 district
+2026-03-11 09:56:52,976 - INFO - main.py:134 - Processing District 2 district
+2026-03-11 09:56:52,976 - INFO - main.py:134 - Processing District 3 district
+2026-03-11 09:57:44,341 - INFO - main.py:134 - Processing District 1 district
+2026-03-11 09:57:44,342 - INFO - main.py:140 - Processing USAS User Report.csv file
+2026-03-11 09:57:44,342 - INFO - main.py:140 - Processing USPS User Report.csv file
+2026-03-11 09:57:44,343 - INFO - main.py:134 - Processing District 2 district
+2026-03-11 09:57:44,343 - INFO - main.py:140 - Processing USAS User Report.csv file
+2026-03-11 09:57:44,343 - INFO - main.py:140 - Processing USPS User Report.csv file
+2026-03-11 09:57:44,343 - INFO - main.py:134 - Processing District 3 district
+2026-03-11 09:57:44,343 - INFO - main.py:140 - Processing USAS User Report.csv file
+2026-03-11 09:57:44,344 - INFO - main.py:140 - Processing USPS User Report.csv file
+2026-03-11 13:59:28,556 - INFO - main.py:135 - Processing District 1 district
+2026-03-11 13:59:28,557 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 13:59:28,557 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 13:59:28,557 - INFO - main.py:135 - Processing District 2 district
+2026-03-11 13:59:28,558 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 13:59:28,558 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 13:59:28,558 - INFO - main.py:135 - Processing District 3 district
+2026-03-11 13:59:28,559 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 13:59:28,559 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:00:01,558 - INFO - main.py:135 - Processing District 1 district
+2026-03-11 14:00:01,559 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 14:00:01,559 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:00:01,560 - INFO - main.py:135 - Processing District 2 district
+2026-03-11 14:00:01,561 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 14:00:01,561 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:00:01,561 - INFO - main.py:135 - Processing District 3 district
+2026-03-11 14:00:01,562 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 14:00:01,563 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:28:33,237 - INFO - main.py:135 - Processing District 1 district
+2026-03-11 14:28:33,238 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 14:28:33,238 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:28:33,238 - INFO - main.py:135 - Processing District 2 district
+2026-03-11 14:28:33,239 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 14:28:33,239 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:28:33,239 - INFO - main.py:135 - Processing District 3 district
+2026-03-11 14:28:33,240 - INFO - main.py:142 - Processing USAS User Report.csv file
+2026-03-11 14:28:33,241 - INFO - main.py:142 - Processing USPS User Report.csv file
+2026-03-11 14:36:32,349 - INFO - main.py:137 - Processing District 1
+2026-03-11 14:36:32,349 - INFO - main.py:144 - Processing USAS User Report.csv file
+2026-03-11 14:36:32,349 - INFO - main.py:144 - Processing USPS User Report.csv file
+2026-03-11 14:36:32,350 - INFO - main.py:137 - Processing District 2
+2026-03-11 14:36:32,350 - INFO - main.py:144 - Processing USAS User Report.csv file
+2026-03-11 14:36:32,350 - INFO - main.py:144 - Processing USPS User Report.csv file
+2026-03-11 14:36:32,350 - INFO - main.py:137 - Processing District 3
+2026-03-11 14:36:32,351 - INFO - main.py:144 - Processing USAS User Report.csv file
+2026-03-11 14:36:32,351 - INFO - main.py:144 - Processing USPS User Report.csv file
+2026-03-11 14:37:21,264 - INFO - main.py:137 - Processing District 1
+2026-03-11 14:37:21,265 - INFO - main.py:144 - Processing USAS User Report.csv file
+2026-03-11 14:37:21,265 - INFO - main.py:144 - Processing USPS User Report.csv file
+2026-03-11 14:37:21,265 - INFO - main.py:137 - Processing District 2
+2026-03-11 14:37:21,265 - INFO - main.py:144 - Processing USAS User Report.csv file
+2026-03-11 14:37:21,265 - INFO - main.py:144 - Processing USPS User Report.csv file
+2026-03-11 14:37:21,265 - INFO - main.py:137 - Processing District 3
+2026-03-11 14:37:21,266 - INFO - main.py:144 - Processing USAS User Report.csv file
+2026-03-11 14:37:21,266 - INFO - main.py:144 - Processing USPS User Report.csv file
+2026-03-11 14:38:22,960 - INFO - main.py:137 - Processing District 1
+2026-03-11 14:38:22,961 - INFO - main.py:143 - Processing USAS User Report.csv file
+2026-03-11 14:38:23,092 - INFO - main.py:143 - Processing USPS User Report.csv file
+2026-03-11 14:38:23,105 - INFO - main.py:137 - Processing District 2
+2026-03-11 14:38:23,106 - INFO - main.py:143 - Processing USAS User Report.csv file
+2026-03-11 14:38:23,120 - INFO - main.py:143 - Processing USPS User Report.csv file
+2026-03-11 14:38:23,134 - INFO - main.py:137 - Processing District 3
+2026-03-11 14:38:23,135 - INFO - main.py:143 - Processing USAS User Report.csv file
+2026-03-11 14:38:23,148 - INFO - main.py:143 - Processing USPS User Report.csv file
+2026-03-11 14:39:40,953 - INFO - main.py:140 - Processing District 1
+2026-03-11 14:39:40,953 - INFO - main.py:146 - Processing USAS User Report.csv file
+2026-03-11 14:39:40,970 - INFO - main.py:146 - Processing USPS User Report.csv file
+2026-03-11 14:39:40,985 - INFO - main.py:140 - Processing District 2
+2026-03-11 14:39:40,986 - INFO - main.py:146 - Processing USAS User Report.csv file
+2026-03-11 14:39:41,000 - INFO - main.py:146 - Processing USPS User Report.csv file
+2026-03-11 14:39:41,013 - INFO - main.py:140 - Processing District 3
+2026-03-11 14:39:41,013 - INFO - main.py:146 - Processing USAS User Report.csv file
+2026-03-11 14:39:41,025 - INFO - main.py:146 - Processing USPS User Report.csv file
+2026-03-11 14:40:38,365 - INFO - main.py:139 - Processing District 1
+2026-03-11 14:40:38,365 - INFO - main.py:145 - Processing USAS User Report.csv file
+2026-03-11 14:40:45,388 - INFO - main.py:139 - Processing District 1
+2026-03-11 14:40:45,388 - INFO - main.py:145 - Processing USAS User Report.csv file
+2026-03-11 14:40:45,396 - INFO - main.py:145 - Processing USPS User Report.csv file
+2026-03-11 14:40:45,401 - INFO - main.py:139 - Processing District 2
+2026-03-11 14:40:45,402 - INFO - main.py:145 - Processing USAS User Report.csv file
+2026-03-11 14:40:45,407 - INFO - main.py:145 - Processing USPS User Report.csv file
+2026-03-11 14:40:45,413 - INFO - main.py:139 - Processing District 3
+2026-03-11 14:40:45,414 - INFO - main.py:145 - Processing USAS User Report.csv file
+2026-03-11 14:40:45,420 - INFO - main.py:145 - Processing USPS User Report.csv file
+2026-03-11 15:07:13,347 - INFO - main.py:168 - Processing District 1
+2026-03-11 15:07:13,348 - INFO - main.py:174 - Processing USAS User Report.csv file
+2026-03-11 15:07:22,571 - INFO - main.py:168 - Processing District 1
+2026-03-11 15:07:22,571 - INFO - main.py:174 - Processing USAS User Report.csv file
+2026-03-11 15:07:22,580 - INFO - main.py:174 - Processing USPS User Report.csv file
+2026-03-11 15:07:22,584 - INFO - main.py:168 - Processing District 2
+2026-03-11 15:07:22,584 - INFO - main.py:174 - Processing USAS User Report.csv file
+2026-03-11 15:07:22,588 - INFO - main.py:174 - Processing USPS User Report.csv file
+2026-03-11 15:07:22,593 - INFO - main.py:168 - Processing District 3
+2026-03-11 15:07:22,593 - INFO - main.py:174 - Processing USAS User Report.csv file
+2026-03-11 15:07:22,598 - INFO - main.py:174 - Processing USPS User Report.csv file
+2026-03-11 15:07:48,532 - INFO - main.py:168 - Processing District 1
+2026-03-11 15:07:48,533 - INFO - main.py:174 - Processing USAS User Report.csv file
+2026-03-11 15:08:38,041 - INFO - main.py:168 - Processing District 1
+2026-03-11 15:08:38,042 - INFO - main.py:174 - Processing USAS User Report.csv file
+2026-03-11 15:09:34,790 - INFO - main.py:169 - Processing District 1
+2026-03-11 15:09:34,790 - INFO - main.py:175 - Processing USAS User Report.csv file
+2026-03-11 15:12:02,141 - INFO - main.py:169 - Processing District 1
+2026-03-11 15:12:02,141 - INFO - main.py:175 - Processing USAS User Report.csv file
+2026-03-11 15:12:34,846 - INFO - main.py:169 - Processing District 1
+2026-03-11 15:12:34,846 - INFO - main.py:175 - Processing USAS User Report.csv file
+2026-03-11 15:13:41,347 - INFO - main.py:170 - Processing District 1
+2026-03-11 15:13:41,347 - INFO - main.py:176 - Processing USAS User Report.csv file
+2026-03-11 15:15:24,546 - INFO - main.py:170 - Processing District 1
+2026-03-11 15:15:24,546 - INFO - main.py:176 - Processing USAS User Report.csv file
+2026-03-11 15:15:24,554 - INFO - main.py:176 - Processing USPS User Report.csv file
+2026-03-11 15:19:51,090 - INFO - main.py:171 - Processing District 1
+2026-03-11 15:19:51,090 - INFO - main.py:177 - Processing USAS User Report.csv file
+2026-03-11 15:27:02,163 - INFO - main.py:171 - Processing District 1
+2026-03-11 15:27:02,163 - INFO - main.py:177 - Processing USAS User Report.csv file
+2026-03-11 15:33:18,186 - INFO - main.py:171 - Processing District 1
+2026-03-11 15:33:18,187 - INFO - main.py:177 - Processing USAS User Report.csv file
+2026-03-11 15:33:18,205 - INFO - main.py:177 - Processing USPS User Report.csv file
+2026-03-11 15:35:10,322 - INFO - main.py:173 - Processing District 1
+2026-03-11 15:35:10,323 - INFO - main.py:179 - Processing USAS User Report.csv file
+2026-03-11 15:35:10,341 - INFO - main.py:179 - Processing USPS User Report.csv file
+2026-03-11 15:35:10,353 - INFO - main.py:173 - Processing District 2
+2026-03-11 15:35:10,353 - INFO - main.py:179 - Processing USAS User Report.csv file
+2026-03-11 15:35:10,361 - INFO - main.py:179 - Processing USPS User Report.csv file
+2026-03-11 15:35:10,371 - INFO - main.py:173 - Processing District 3
+2026-03-11 15:35:10,371 - INFO - main.py:179 - Processing USAS User Report.csv file
+2026-03-11 15:35:10,378 - INFO - main.py:179 - Processing USPS User Report.csv file

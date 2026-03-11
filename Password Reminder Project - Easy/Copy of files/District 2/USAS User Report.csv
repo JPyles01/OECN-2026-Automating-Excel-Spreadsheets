@@ -1,0 +1,6 @@
+Username,Name,Title,Email Address,Created,Account Expiration,Password Expiration,Enabled,Locked,Last Login,Roles,Two Factor Authentication
+rbaker04,Robert Baker,Director,rbaker@district.edu,2023-02-12,,2024-08-12,TRUE,FALSE,2024-03-10,Standard User,TRUE
+slim_data,Sarah Lim,Technician,slim@district.edu,2022-09-05,,2024-03-05,TRUE,FALSE,2024-03-11,Standard User,FALSE
+vpatel88,Vikram Patel,Supervisor,vpatel@district.edu,2023-10-22,2025-10-22,2024-04-22,TRUE,FALSE,2024-02-15,Standard User,TRUE
+khealy,Karen Healy,Clerk,khealy@district.edu,2021-05-30,,2024-11-30,FALSE,FALSE,2023-11-01,Standard User,TRUE
+d_ross,David Ross,Coordinator,dross@district.edu,2023-07-18,,2025-01-18,TRUE,TRUE,2024-01-20,Standard User,FALSE

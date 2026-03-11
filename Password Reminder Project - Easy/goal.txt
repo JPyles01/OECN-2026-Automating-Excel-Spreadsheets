@@ -1,0 +1,10 @@
+The goal of Password Reminder Project is to create a list of users out of USAS and USPS, add a column to identify which application they are from, and to email the users when their password is about to expire
+
+
+Project needs to do the following:
+-Look through multiple district directories
+-look for a USAS file that list users
+-look for a USPS file that list users. Both files must have USAS or USPS in the file name. Both files must have the same column headers
+
+-script will add a column with the header called "Application"
+-Script must be easy to read with plenty of comments

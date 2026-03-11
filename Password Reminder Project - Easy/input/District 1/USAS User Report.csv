@@ -1,0 +1,6 @@
+Username,Name,Title,Email Address,Created,Account Expiration,Password Expiration,Enabled,Locked,Last Login,Roles,Two Factor Authentication,Application,District
+jsmith01,John Smith,Accountant,jsmith@district.edu,1/15/2023,,7/15/2024,True,False,3/1/2024,Standard User,True,USAS,District 1
+mgarcia,Maria Garcia,Coordinator,mgarcia@district.edu,11/10/2022,,5/10/2024,True,False,3/5/2024,Standard User,False,USAS,District 1
+tchen22,Tom Chen,Analyst,tchen@district.edu,6/5/2023,6/5/2025,12/5/2024,True,False,2/28/2024,Standard User,True,USAS,District 1
+lwilson,Linda Wilson,Manager,lwilson@district.edu,3/20/2021,,9/20/2024,False,False,12/15/2023,Standard User,True,USAS,District 1
+ajackson,Aaron Jackson,Specialist,ajackson@district.edu,8/12/2023,,5/10/2026,True,False,1/10/2024,Standard User,False,USAS,District 1
