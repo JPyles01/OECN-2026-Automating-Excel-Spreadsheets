@@ -1,0 +1,80 @@
+2026-03-21 14:36:30,452 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 14:36:31,455 - ERROR - main.py:283 - Error formatting input file for district DE: Input file 'input\districts\DE\Graphs - Cash Account History.csv' does not exist.
+2026-03-21 14:37:32,383 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 14:37:33,448 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 14:37:33,959 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 14:37:34,462 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 14:37:34,978 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 14:37:35,577 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 006-0000
+2026-03-21 14:37:36,086 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 006-0000
+2026-03-21 14:37:36,593 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 006-0000
+2026-03-21 14:37:37,100 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 006-0000
+2026-03-21 14:37:37,680 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 14:37:38,240 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 14:37:43,914 - INFO - email.py:118 -   SENDING EMAIL TO: jon@noacsc.org 2026-03-21 14:37:43.914684
+2026-03-21 14:38:42,141 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 14:38:43,161 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 14:38:43,666 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 14:38:44,172 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 14:38:44,682 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 14:38:45,232 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 006-0000
+2026-03-21 14:38:45,740 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 006-0000
+2026-03-21 14:38:46,244 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 006-0000
+2026-03-21 14:38:46,748 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 006-0000
+2026-03-21 14:38:47,307 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 14:38:47,862 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 14:38:53,515 - INFO - email.py:118 -   SENDING EMAIL TO: jon@noacsc.org 2026-03-21 14:38:53.514553
+2026-03-21 14:50:23,293 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 14:50:24,315 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 14:50:24,825 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 14:50:25,329 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 14:50:25,836 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 14:50:26,409 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 14:50:26,968 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 14:50:32,621 - INFO - email.py:118 -   SENDING EMAIL TO: jon@noacsc.org 2026-03-21 14:50:32.621546
+2026-03-21 14:51:34,565 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 14:51:35,583 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 14:51:36,091 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 14:51:36,595 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 14:51:37,099 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 14:51:37,659 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 14:51:38,219 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 14:51:43,911 - INFO - email.py:118 -   SENDING EMAIL TO: jon@noacsc.org 2026-03-21 14:51:43.911464
+2026-03-21 16:45:21,850 - INFO - main.py:344 - Log file created at logs\info.log
+2026-03-21 16:45:22,873 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 16:45:23,381 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 16:45:23,889 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 16:45:24,397 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 16:45:24,967 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 16:45:25,524 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 16:46:55,679 - INFO - main.py:344 - Log file created at logs\info.log
+2026-03-21 16:46:56,700 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 16:46:57,209 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 16:46:57,717 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 16:46:58,221 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 16:46:58,782 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 16:46:59,340 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 16:48:07,922 - INFO - main.py:344 - Log file created at logs\info.log
+2026-03-21 16:48:08,939 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 16:48:09,446 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 16:48:09,953 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 16:48:10,459 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 16:48:11,020 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 16:48:11,582 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 16:57:37,595 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 16:57:38,611 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 16:57:39,118 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 16:57:39,628 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 16:57:40,132 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 16:57:40,686 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 16:57:41,244 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000
+2026-03-21 16:57:41,874 - INFO - email.py:126 -   ERROR IN SENDING EMAIL: [Errno 11001] getaddrinfo failed 2026-03-21 16:57:41.874969
+2026-03-21 16:57:41,875 - ERROR - email.py:60 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 16:57:41,877 - ERROR - email.py:174 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 16:59:26,417 - INFO - main.py:355 - Log file created at logs\info.log
+2026-03-21 16:59:27,434 - INFO - line.py:155 -   Finished creating line chart for district: DE and account code: 001-0000
+2026-03-21 16:59:27,942 - INFO - bar.py:83 -   Finished creating MTD Received bar chart for district: DE and account code: 001-0000
+2026-03-21 16:59:28,449 - INFO - bar.py:83 -   Finished creating MTD Expended bar chart for district: DE and account code: 001-0000
+2026-03-21 16:59:28,956 - INFO - bar.py:83 -   Finished creating Month End Balance bar chart for district: DE and account code: 001-0000
+2026-03-21 16:59:29,527 - INFO - pie.py:134 -   Finished creating expenditure pie chart for district: DE and account code: 001-0000
+2026-03-21 16:59:30,092 - INFO - pie.py:270 -   Finished creating revenue pie chart for district: DE and account code: 001-0000

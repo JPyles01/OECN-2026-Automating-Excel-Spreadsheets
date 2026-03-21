@@ -1,0 +1,31 @@
+Username,Name,Title,Email Address,Created,Account Expiration,Password Expiration,Enabled,Locked,Last Login,Roles,Two Factor Authentication,Application,District
+jsmith01,John Smith,Accountant,jsmith@district.edu,1/15/2023,,07/15/2024,True,False,3/1/2024,Standard User,True,USAS,District 1
+mgarcia,Maria Garcia,Coordinator,mgarcia@district.edu,11/10/2022,,05/10/2024,True,False,3/5/2024,Standard User,False,USAS,District 1
+tchen22,Tom Chen,Analyst,tchen@district.edu,6/5/2023,6/5/2025,12/05/2024,True,False,2/28/2024,Standard User,True,USAS,District 1
+lwilson,Linda Wilson,Manager,lwilson@district.edu,3/20/2021,,09/20/2024,False,False,12/15/2023,Standard User,True,USAS,District 1
+ajackson,Aaron Jackson,Specialist,ajackson@district.edu,8/12/2023,,05/10/2026,True,False,1/10/2024,Standard User,False,USAS,District 1
+jsmith01,John Smith,Accountant,jsmith@district.edu,2023-01-15,,07/15/2024,True,False,2024-03-01,Standard User,True,USPS,District 1
+mgarcia,Maria Garcia,Coordinator,mgarcia@district.edu,2022-11-10,,05/10/2024,True,False,2024-03-05,Standard User,False,USPS,District 1
+tchen22,Tom Chen,Analyst,tchen@district.edu,2023-06-05,2025-06-05,12/05/2024,True,False,2024-02-28,Standard User,True,USPS,District 1
+lwilson,Linda Wilson,Manager,lwilson@district.edu,2021-03-20,,09/20/2024,False,False,2023-12-15,Standard User,True,USPS,District 1
+ajackson,Aaron Jackson,Specialist,ajackson@district.edu,2023-08-12,,02/12/2025,True,True,2024-01-10,Standard User,False,USPS,District 1
+rbaker04,Robert Baker,Director,rbaker@district.edu,2023-02-12,,08/12/2024,True,False,2024-03-10,Standard User,True,USAS,District 2
+slim_data,Sarah Lim,Technician,slim@district.edu,2022-09-05,,03/05/2024,True,False,2024-03-11,Standard User,False,USAS,District 2
+vpatel88,Vikram Patel,Supervisor,vpatel@district.edu,2023-10-22,2025-10-22,04/22/2024,True,False,2024-02-15,Standard User,True,USAS,District 2
+khealy,Karen Healy,Clerk,khealy@district.edu,2021-05-30,,11/30/2024,False,False,2023-11-01,Standard User,True,USAS,District 2
+d_ross,David Ross,Coordinator,dross@district.edu,2023-07-18,,01/18/2025,True,True,2024-01-20,Standard User,False,USAS,District 2
+rbaker04,Robert Baker,Director,rbaker@district.edu,2023-02-12,,08/12/2024,True,False,2024-03-10,Standard User,True,USPS,District 2
+slim_data,Sarah Lim,Technician,slim@district.edu,2022-09-05,,03/05/2024,True,False,2024-03-11,Standard User,False,USPS,District 2
+vpatel88,Vikram Patel,Supervisor,vpatel@district.edu,2023-10-22,2025-10-22,04/22/2024,True,False,2024-02-15,Standard User,True,USPS,District 2
+khealy,Karen Healy,Clerk,khealy@district.edu,2021-05-30,,11/30/2024,False,False,2023-11-01,Standard User,True,USPS,District 2
+d_ross,David Ross,Coordinator,dross@district.edu,2023-07-18,,01/18/2025,True,True,2024-01-20,Standard User,False,USPS,District 2
+b_hodges,Brenda Hodges,Secretary,bhodges@district.edu,2023-04-12,,10/12/2024,True,False,2024-03-09,Standard User,True,USAS,District 3
+clowry99,Chris Lowry,Warehouse Lead,clowry@district.edu,2022-08-20,,02/20/2024,True,False,2024-03-10,Standard User,False,USAS,District 3
+f_morgan,Felicia Morgan,Registrar,fmorgan@district.edu,2023-11-01,2025-11-01,05/01/2024,True,False,2024-02-20,Standard User,True,USAS,District 3
+m_scott_2,Michael Scott,Regional Manager,mscott@district.edu,2021-01-15,,07/15/2024,False,False,2023-10-12,Standard User,True,USAS,District 3
+d_vance,Dwight Vance,Assistant,dvance@district.edu,2023-05-22,,11/22/2024,True,True,2024-02-01,Standard User,False,USAS,District 3
+b_hodges,Brenda Hodges,Secretary,bhodges@district.edu,2023-04-12,,10/12/2024,True,False,2024-03-09,Standard User,True,USPS,District 3
+clowry99,Chris Lowry,Warehouse Lead,clowry@district.edu,2022-08-20,,02/20/2024,True,False,2024-03-10,Standard User,False,USPS,District 3
+f_morgan,Felicia Morgan,Registrar,fmorgan@district.edu,2023-11-01,2025-11-01,05/01/2024,True,False,2024-02-20,Standard User,True,USPS,District 3
+m_scott_2,Michael Scott,Regional Manager,mscott@district.edu,2021-01-15,,07/15/2024,False,False,2023-10-12,Standard User,True,USPS,District 3
+d_vance,Dwight Vance,Assistant,dvance@district.edu,2023-05-22,,11/22/2024,True,True,2024-02-01,Standard User,False,USPS,District 3

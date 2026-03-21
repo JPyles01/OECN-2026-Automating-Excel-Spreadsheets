@@ -156,3 +156,101 @@
 2026-03-11 15:35:10,371 - INFO - main.py:173 - Processing District 3
 2026-03-11 15:35:10,371 - INFO - main.py:179 - Processing USAS User Report.csv file
 2026-03-11 15:35:10,378 - INFO - main.py:179 - Processing USPS User Report.csv file
+2026-03-12 08:39:02,905 - INFO - main.py:181 - Processing District 1
+2026-03-12 08:39:02,906 - INFO - main.py:187 - Processing USAS User Report.csv file
+2026-03-12 08:39:02,920 - INFO - main.py:187 - Processing USPS User Report.csv file
+2026-03-12 08:39:02,926 - INFO - main.py:181 - Processing District 2
+2026-03-12 08:39:02,926 - INFO - main.py:187 - Processing USAS User Report.csv file
+2026-03-12 08:39:02,935 - INFO - main.py:187 - Processing USPS User Report.csv file
+2026-03-12 08:39:02,941 - INFO - main.py:181 - Processing District 3
+2026-03-12 08:39:02,942 - INFO - main.py:187 - Processing USAS User Report.csv file
+2026-03-12 08:39:02,949 - INFO - main.py:187 - Processing USPS User Report.csv file
+2026-03-12 11:15:21,112 - INFO - main.py:232 - Processing District 1
+2026-03-12 11:15:21,112 - INFO - main.py:238 - Processing USAS User Report.csv file
+2026-03-12 11:15:21,130 - INFO - main.py:238 - Processing USPS User Report.csv file
+2026-03-12 11:15:21,135 - INFO - main.py:232 - Processing District 2
+2026-03-12 11:15:21,136 - INFO - main.py:238 - Processing USAS User Report.csv file
+2026-03-12 11:15:21,142 - INFO - main.py:238 - Processing USPS User Report.csv file
+2026-03-12 11:15:21,148 - INFO - main.py:232 - Processing District 3
+2026-03-12 11:15:21,149 - INFO - main.py:238 - Processing USAS User Report.csv file
+2026-03-12 11:15:21,155 - INFO - main.py:238 - Processing USPS User Report.csv file
+2026-03-12 11:17:58,606 - ERROR - main.py:207 - Failed to send email to jon@noacsc.org: [Errno 11001] getaddrinfo failed
+2026-03-12 11:17:58,606 - INFO - main.py:232 - Processing District 1
+2026-03-12 11:17:58,607 - INFO - main.py:238 - Processing USAS User Report.csv file
+2026-03-12 11:17:58,615 - INFO - main.py:238 - Processing USPS User Report.csv file
+2026-03-12 11:17:58,622 - INFO - main.py:232 - Processing District 2
+2026-03-12 11:17:58,623 - INFO - main.py:238 - Processing USAS User Report.csv file
+2026-03-12 11:17:58,628 - INFO - main.py:238 - Processing USPS User Report.csv file
+2026-03-12 11:17:58,634 - INFO - main.py:232 - Processing District 3
+2026-03-12 11:17:58,635 - INFO - main.py:238 - Processing USAS User Report.csv file
+2026-03-12 11:17:58,639 - INFO - main.py:238 - Processing USPS User Report.csv file
+2026-03-12 11:26:31,314 - INFO - main.py:196 - Successfully sent email to jon@noacsc.org for USAS
+2026-03-12 11:36:11,719 - ERROR - main.py:208 - Failed to send email to jon@noacsc.org: [Errno 11001] getaddrinfo failed
+2026-03-12 11:36:34,965 - ERROR - main.py:209 - Failed to send email to jon@noacsc.org: [Errno 11001] getaddrinfo failed
+2026-03-12 11:37:53,930 - INFO - main.py:196 - Successfully sent email to jon@noacsc.org for USAS
+2026-03-12 13:27:57,156 - INFO - main.py:223 - Processing District 1
+2026-03-12 13:27:57,157 - INFO - main.py:231 - Processing USAS User Report.csv file
+2026-03-12 13:27:57,208 - ERROR - main.py:200 - Failed to send email to jsmith@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,212 - ERROR - main.py:200 - Failed to send email to mgarcia@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,217 - ERROR - main.py:200 - Failed to send email to tchen@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,221 - ERROR - main.py:200 - Failed to send email to lwilson@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,223 - INFO - main.py:231 - Processing USPS User Report.csv file
+2026-03-12 13:27:57,232 - ERROR - main.py:200 - Failed to send email to jsmith@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,236 - ERROR - main.py:200 - Failed to send email to mgarcia@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,240 - ERROR - main.py:200 - Failed to send email to tchen@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,243 - ERROR - main.py:200 - Failed to send email to lwilson@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,246 - ERROR - main.py:200 - Failed to send email to ajackson@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,247 - INFO - main.py:223 - Processing District 2
+2026-03-12 13:27:57,248 - INFO - main.py:231 - Processing USAS User Report.csv file
+2026-03-12 13:27:57,257 - ERROR - main.py:200 - Failed to send email to rbaker@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,260 - ERROR - main.py:200 - Failed to send email to slim@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,262 - ERROR - main.py:200 - Failed to send email to vpatel@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,267 - ERROR - main.py:200 - Failed to send email to khealy@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,270 - ERROR - main.py:200 - Failed to send email to dross@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,272 - INFO - main.py:231 - Processing USPS User Report.csv file
+2026-03-12 13:27:57,280 - ERROR - main.py:200 - Failed to send email to rbaker@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,284 - ERROR - main.py:200 - Failed to send email to slim@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,288 - ERROR - main.py:200 - Failed to send email to vpatel@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,292 - ERROR - main.py:200 - Failed to send email to khealy@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,295 - ERROR - main.py:200 - Failed to send email to dross@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,295 - INFO - main.py:223 - Processing District 3
+2026-03-12 13:27:57,296 - INFO - main.py:231 - Processing USAS User Report.csv file
+2026-03-12 13:27:57,305 - ERROR - main.py:200 - Failed to send email to bhodges@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,308 - ERROR - main.py:200 - Failed to send email to clowry@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,310 - ERROR - main.py:200 - Failed to send email to fmorgan@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,314 - ERROR - main.py:200 - Failed to send email to mscott@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,320 - ERROR - main.py:200 - Failed to send email to dvance@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,320 - INFO - main.py:231 - Processing USPS User Report.csv file
+2026-03-12 13:27:57,327 - ERROR - main.py:200 - Failed to send email to bhodges@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,330 - ERROR - main.py:200 - Failed to send email to clowry@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,334 - ERROR - main.py:200 - Failed to send email to fmorgan@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,337 - ERROR - main.py:200 - Failed to send email to mscott@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:27:57,341 - ERROR - main.py:200 - Failed to send email to dvance@district.edu: [Errno 11001] getaddrinfo failed
+2026-03-12 13:39:38,735 - INFO - main.py:238 - Processing District 1
+2026-03-12 13:39:38,735 - INFO - main.py:246 - Processing USAS User Report.csv file
+2026-03-12 13:40:05,935 - INFO - main.py:238 - Processing District 1
+2026-03-12 13:40:05,936 - INFO - main.py:246 - Processing USAS User Report.csv file
+2026-03-12 13:40:38,513 - INFO - main.py:238 - Processing District 1
+2026-03-12 13:40:38,513 - INFO - main.py:246 - Processing USAS User Report.csv file
+2026-03-21 13:27:38,662 - INFO - main.py:318 - Processing District 1
+2026-03-21 13:27:38,663 - INFO - main.py:326 - Processing USAS User Report.csv file
+2026-03-21 13:27:38,682 - ERROR - main.py:84 - Error processing file input\District 1\USAS User Report.csv for USAS in District 1: Not a boolean: False # Set to True to enable email sending, False to disable.
+2026-03-21 13:27:38,731 - ERROR - main.py:297 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 13:27:38,731 - INFO - main.py:326 - Processing USPS User Report.csv file
+2026-03-21 13:27:38,739 - ERROR - main.py:84 - Error processing file input\District 1\USPS User Report.csv for USPS in District 1: Not a boolean: False # Set to True to enable email sending, False to disable.
+2026-03-21 13:27:38,740 - ERROR - main.py:297 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 13:27:38,741 - INFO - main.py:318 - Processing District 2
+2026-03-21 13:27:38,741 - INFO - main.py:326 - Processing USAS User Report.csv file
+2026-03-21 13:27:38,749 - ERROR - main.py:84 - Error processing file input\District 2\USAS User Report.csv for USAS in District 2: Not a boolean: False # Set to True to enable email sending, False to disable.
+2026-03-21 13:27:38,750 - ERROR - main.py:297 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 13:27:38,751 - INFO - main.py:326 - Processing USPS User Report.csv file
+2026-03-21 13:27:38,757 - ERROR - main.py:84 - Error processing file input\District 2\USPS User Report.csv for USPS in District 2: Not a boolean: False # Set to True to enable email sending, False to disable.
+2026-03-21 13:27:38,757 - ERROR - main.py:297 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 13:27:38,758 - INFO - main.py:318 - Processing District 3
+2026-03-21 13:27:38,759 - INFO - main.py:326 - Processing USAS User Report.csv file
+2026-03-21 13:27:38,765 - ERROR - main.py:84 - Error processing file input\District 3\USAS User Report.csv for USAS in District 3: Not a boolean: False # Set to True to enable email sending, False to disable.
+2026-03-21 13:27:38,765 - ERROR - main.py:297 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 13:27:38,766 - INFO - main.py:326 - Processing USPS User Report.csv file
+2026-03-21 13:27:38,772 - ERROR - main.py:84 - Error processing file input\District 3\USPS User Report.csv for USPS in District 3: Not a boolean: False # Set to True to enable email sending, False to disable.
+2026-03-21 13:27:38,773 - ERROR - main.py:297 - Failed to send error email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
+2026-03-21 13:27:38,857 - ERROR - main.py:254 - Failed to send email to your-email-here@example.org: [Errno 11001] getaddrinfo failed
